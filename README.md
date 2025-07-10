@@ -1,1 +1,1 @@
-# -renci_Skor_Y-neticisi
+Öğrenci Skor Yöneticisi
