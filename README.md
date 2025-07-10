@@ -1,0 +1,1 @@
+# -renci_Skor_Y-neticisi
